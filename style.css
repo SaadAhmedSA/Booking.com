@@ -1,0 +1,50 @@
+*
+{margin: 0;
+padding: 0;
+
+}
+.container-fluid{
+    height: 47vh;
+}
+
+.border{
+    list-style-type: none;
+    display: inline;
+    padding-right: 20px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin: 10px;
+ padding: 7px;
+}
+.container h1{
+    color: rgb(7, 4, 4);
+    /* font-size: 60px; */
+}
+.container p{
+    color: rgb(8, 4, 4);
+    /* font-size: 20px; */
+}
+input{
+    width: 300px;
+    height: 51px;
+    border: 2px solid black;
+    
+}
+.container button{
+    height:50px;
+    width: 100px;
+    background-color: cadetblue;
+    color: white;
+}
+.col-6{
+    border: 1px solid black;
+    color: black;
+    height:230px;
+    width: 550px;
+   
+}
+.col-6 img{
+    height: 100%;
+    width: 100%;
+}
